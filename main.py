@@ -9,7 +9,7 @@ r1 = random.choice(string.ascii_letters)
 r2 = random.choice(string.ascii_letters)
 r3 = random.choice(string.ascii_letters)
 
-# Coding The Word To Scret Language
+# Coding The Word To Secret Language
 def code():
     a = input("Enter the word to get changed in secret language : ")
     if len(a) <= 2:
